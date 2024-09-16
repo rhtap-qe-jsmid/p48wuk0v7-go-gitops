@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: p48wuk0v7-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/p48wuk0v7-go-gitops
